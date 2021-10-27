@@ -1,0 +1,24 @@
+# Input string
+
+  Length:
+    0.
+    1.
+    size - 1.
+    size + 1.
+    size*2.
+    size*2 - 1.
+    size*2 + 1.
+    maxint.
+
+  Content:
+    alphanumeric characters.
+    special characters.
+    spaces.
+
+# Input size
+
+  Value:
+    0.
+    >0.
+    <0.
+    maxint.
