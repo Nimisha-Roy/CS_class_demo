@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('#b1').click(function() {
 
         $.ajax({
-            url: 'https://api.jsonbin.io/b/6106ce81f098011544a950d8/2',
+            url: 'https://api.jsonbin.io/b/6106ce81f098011540d8/2',
             type: 'GET',
             dataType: 'json',
             timeout: 2500,
